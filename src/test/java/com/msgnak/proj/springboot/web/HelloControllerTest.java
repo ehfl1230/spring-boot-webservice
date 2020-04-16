@@ -1,4 +1,4 @@
-package com.msgnak.proj.springboot;
+package com.msgnak.proj.springboot.web;
 
 import com.msgnak.proj.springboot.config.auth.SecurityConfig;
 import com.msgnak.proj.springboot.web.HelloController;
